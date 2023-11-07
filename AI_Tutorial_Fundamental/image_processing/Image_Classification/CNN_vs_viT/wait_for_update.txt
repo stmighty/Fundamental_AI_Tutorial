@@ -1,0 +1,2 @@
+first hackathon of superai
+Image_Processing_firsthack_superai_gpu.ipynb vs vision_transformer.ipynb
