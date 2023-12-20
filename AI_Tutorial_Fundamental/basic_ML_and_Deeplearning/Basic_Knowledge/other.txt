@@ -1,0 +1,46 @@
+1. dispay image -> 01_pytorch file
+
+1.1 
+import matplotlib.pyplot as plt 
+import matplotlib.image as img 
+# reading the image 
+testImage = img.imread('/Users/sirasittanrattanawong/Downloads/Fundamental_AI_Tutorial/AI_Tutorial_Fundamental/basic_ML_and_Deeplearning/Basic_Knowledge/image/pytorch_workflow.png') 
+
+plt.axis('off')  # command for hiding the axis. 
+
+# displaying the image 
+plt.imshow(testImage) 
+
+1.2 
+import cv2
+path = '/Users/sirasittanrattanawong/Downloads/Fundamental_AI_Tutorial/AI_Tutorial_Fundamental/basic_ML_and_Deeplearning/Basic_Knowledge/image/buiilding_model.png'
+  
+# Reading an image in default mode
+image = cv2.imread(path)
+
+plt.imshow(image)
+
+
+
+2. os.join path -> 02_pytorch file
+import os
+import cv2
+import matplotlib.pyplot as plt
+
+# Relative path to the image directory
+# './' refers to the current directory
+image_dir = os.path.join('.', 'image')
+
+# Construct the path to the image using os.path.join
+image_path = os.path.join(image_dir, 'metric.png')
+
+# Reading an image in default mode
+image = cv2.imread(image_path)
+
+# Check if the image was successfully loaded
+if image is None:
+    raise ValueError("Failed to load the image. The file may be corrupted or in an unsupported format.")
+
+plt.axis('off')  # Command for hiding the axis
+plt.imshow(image)
+plt.show()

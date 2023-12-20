@@ -1,0 +1,6 @@
+1. dataset vs dataloader vs dataframe vs datasetdict
+2. when we want to train which type of above we use
+3. trainer vs normal train 
+    3.1 in normal train you need to create your own def train and loop with the epochs you want.
+    3.2 in normal train not sure if you need to create your own architecture ex. Copy of 1/2023 2110431_2147329_Image_Processing Part II.ipynb
+         (week12 -> CNN -> Prep model, Training)
