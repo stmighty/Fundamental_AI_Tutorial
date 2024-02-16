@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "age": 35,
+    "hobbies": ["Reading", "Cycling", "Photography"]
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "age": 28,
+    "hobbies": ["Painting", "Hiking", "Dancing"]
+  },
+  {
+    "id": 3,
+    "name": "James Smith",
+    "age": 40,
+    "hobbies": ["Cooking", "Traveling", "Skiing"]
+  },
+  {
+    "id": 4,
+    "name": "Linda Brown",
+    "age": 32,
+    "hobbies": ["Gardening", "Gaming", "Yoga"]
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "age": 29,
+    "hobbies": ["Swimming", "Running", "Reading"]
+  }
+]
+
+  

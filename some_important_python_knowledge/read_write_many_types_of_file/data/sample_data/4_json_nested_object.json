@@ -1,0 +1,39 @@
+{
+  "storeName": "The Reading Nook",
+  "location": "123 Book Lane, Library City, 45678",
+  "inventory": [
+    {
+      "id": 1,
+      "title": "Data Science for Beginners",
+      "author": "Jane Doe",
+      "price": 29.99,
+      "publisher": {
+        "name": "TechPress Publishing",
+        "address": "456 Tech Street, Innovation City, 12345"
+      },
+      "categories": ["Data Science", "Programming", "Technology"]
+    },
+    {
+      "id": 2,
+      "title": "Advanced Machine Learning",
+      "author": "John Smith",
+      "price": 39.99,
+      "publisher": {
+        "name": "AI Innovations",
+        "address": "789 AI Avenue, Future Town, 67890"
+      },
+      "categories": ["Machine Learning", "Artificial Intelligence", "Data Science"]
+    },
+    {
+      "id": 3,
+      "title": "Python Programming Essentials",
+      "author": "Emily White",
+      "price": 24.99,
+      "publisher": {
+        "name": "CodeWorld Publishers",
+        "address": "101 Binary Blvd, Code City, 10101"
+      },
+      "categories": ["Programming", "Python", "Software Development"]
+    }
+  ]
+}
