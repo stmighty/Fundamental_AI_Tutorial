@@ -1,0 +1,6 @@
+1. decision tree / random forest https://drive.google.com/file/d/1FJZe0iSn-EsOqWO1HnmkBYb7T-znoPSk/view?usp=sharing (page 25-70)
+   1.2 isolation tree (knowledge from lineman wongnai interview) https://towardsdatascience.com/how-to-perform-anomaly-detection-with-the-isolation-forest-algorithm-e8c8372520bc
+       key point : which data points are at nearing the root. They are considered anomaly (isolation) because there are only few data so that they cannot be splitted many times.
+
+2. KNN model : https://drive.google.com/file/d/1JxQoBr-HOGIBelPlAJZEsPkmKiMOlxA3/view?usp=sharing
+   2.2 example of calculating in homework : https://drive.google.com/file/d/1JxQoBr-HOGIBelPlAJZEsPkmKiMOlxA3/view?usp=sharing
