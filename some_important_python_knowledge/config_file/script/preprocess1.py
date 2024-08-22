@@ -28,7 +28,7 @@ def load_config(config_path):
         base_config = yaml.safe_load(base_file)
     
     
-    # copy base_config, we will merge specific config and base config
+    # copy base_config, merge with specific, then we will replace the {}
     merged_config = base_config.copy()
     for key, value in config['specific'].items():
         merged_config[key] = value
