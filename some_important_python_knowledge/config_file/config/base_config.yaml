@@ -1,0 +1,4 @@
+base_path: "./results/italasia1/level_SKU_ID_outlet_code/week"
+algorithm: "least_square_mape"
+import_file_src_unique_preprocess: "src.unique_preprocess"
+original_data_path: "./data/ITALASIA SHOP DATA 2023.parquet"

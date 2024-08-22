@@ -1,0 +1,4 @@
+base_config: "./config/base_config.yaml"
+specific:
+   read_file_path: "{original_data_path}"
+   save_file_path: "{base_path}/preprocessed_data/preprocessed_data.csv"
