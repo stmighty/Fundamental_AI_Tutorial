@@ -1,0 +1,19 @@
+1. pytest
+    search command : pytest assert dataframe
+    link : https://stackoverflow.com/questions/70258941/how-to-assert-2-data-frames-using-python-pytest
+    link (ignore dtypes) : https://pandas.pydata.org/docs/reference/api/pandas.testing.assert_frame_equal.html
+
+    search command : how to write and run pytest file
+    link : https://www.geeksforgeeks.org/file-execution-in-pytest/
+    link : https://betterstack.com/community/questions/how-to-test-a-single-file-under-pytest/
+
+    search command : how to check value error pytest
+    link : https://stackoverflow.com/questions/37870587/how-to-assert-valueerror-in-pytest
+
+
+2. unittest
+    search command : how to run unit test python
+    link : https://docs.python.org/3/library/unittest.html
+
+    search command : Pip install unittest
+    link : https://stackoverflow.com/questions/46133254/unittest-installation-error-could-not-find-a-version-that-satisfies-the-requirem
