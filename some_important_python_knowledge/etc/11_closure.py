@@ -1,5 +1,5 @@
 def cumulative_average():
-    data = []                      # 1. Create an empty list to store numbers.
+    data = []                      # 1. Create an empty list to store numbers.          # the inner function (closure) keeps a reference to it in a special storage (cell), so the data remains accessible even after the outer function ends.
     
     def average(value):            # 2. Define an inner function named "average".
          data.append(value)        # 3. Add the new number (value) to the "data" list.
