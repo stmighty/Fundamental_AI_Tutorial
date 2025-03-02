@@ -1,0 +1,18 @@
+example code in this folder are from chatgpt. However, I have attach link as a reference
+
+
+** only this folder that is mostly relied on chatgpt, the rest folders are mostly done by yourself
+
+** synchronous and asynchronous programming are not opposites but rather different approaches to handling tasks.
+
+
+1.1, 1.2, 1.3, 1.4.1 done (with reference link)
+
+
+1.4.2, 1.4.3 ยังไม่ได้ดูดีๆ (ไม่สำคัญมาก)
+2.1.2 เหลือ queue 
+2.3, 2.4 from chatgpt (still incorrect)
+
+
+
+more in javascript softdevprac
